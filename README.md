@@ -16,5 +16,5 @@
 
 ⚡ Факт обо мне: начал заниматься DevOps с **домашнего сервера** на старом ноутбуке  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=DevOps+Engineer;System+Administrator;Linux;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=DevOps+Engineer;System+Administrator;I+Love+Linux;)
 
