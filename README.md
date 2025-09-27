@@ -15,3 +15,6 @@
 - Создавать проекты от идеи до реализации  
 
 ⚡ Факт обо мне: начал заниматься DevOps с **домашнего сервера** на старом ноутбуке  
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=DevOps+Engineer;Fullstack+Developer;Open+Source+Contributor)
+
